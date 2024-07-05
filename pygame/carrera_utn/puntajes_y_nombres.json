@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "uno",
+        "puntaje": 10
+    },
+    {
+        "nombre": "dos",
+        "puntaje": 30
+    },
+    {
+        "nombre": "tres",
+        "puntaje": 0
+    },
+    {
+        "nombre": "cuatro",
+        "puntaje": 40
+    },
+    {
+        "nombre": "cinco",
+        "puntaje": 40
+    },
+    {
+        "nombre": "seis",
+        "puntaje": 40
+    },
+    {
+        "nombre": "siete",
+        "puntaje": 90
+    },
+    {
+        "nombre": "rth",
+        "puntaje": 0
+    },
+    {
+        "nombre": "nueve",
+        "puntaje": 60
+    },
+    {
+        "nombre": "hkg",
+        "puntaje": 0
+    },
+    {
+        "nombre": "dttht",
+        "puntaje": 0
+    },
+    {
+        "nombre": "ftj",
+        "puntaje": 40
+    },
+    {
+        "nombre": "ocho",
+        "puntaje": 190
+    },
+    {
+        "nombre": "dies",
+        "puntaje": 110
+    },
+    {
+        "nombre": "once",
+        "puntaje": 20
+    },
+    {
+        "nombre": "doce",
+        "puntaje": 110
+    },
+    {
+        "nombre": "qwer",
+        "puntaje": 0
+    },
+    {
+        "nombre": "nahuel",
+        "puntaje": 110
+    }
+]
